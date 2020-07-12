@@ -2,7 +2,7 @@
 <h1>React Canvas Draw</h1>
 </div>
 
-> A simple yet powerful canvas-drawing component for React ([Demo](https://embiem.github.io/react-canvas-draw/))
+> A simple yet powerful canvas-drawing component for React based on embiem and friends 'react-canvas-draw' ([Demo](https://embiem.github.io/react-canvas-draw/))
 
 [![Travis][build-badge]][build] [![Coveralls][coveralls-badge]][coveralls] [![npm package][npm-badge]][npm] [![downloads][downloads-badge]][npmtrends] [![MIT License][license-badge]][license]
 
@@ -17,13 +17,7 @@
 Install via NPM:
 
 ```
-npm install react-canvas-draw --save
-```
-
-or YARN:
-
-```
-yarn add react-canvas-draw
+npm install react-canvas-draw-expanded --save
 ```
 
 ## Usage
