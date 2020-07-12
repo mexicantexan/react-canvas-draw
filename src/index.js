@@ -183,7 +183,7 @@ export default class extends PureComponent {
     this.triggerOnChange();
   };
   
-  canvasToCanvas = () => {
+  canvasToCanvas = (canvas) => {
     let context = canvas.getContext("2d")
     
     //cache height and width
