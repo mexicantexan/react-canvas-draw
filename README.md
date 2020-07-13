@@ -17,7 +17,7 @@
 Install via NPM:
 
 ```
-npm install react-canvas-draw-expanded --save
+npm install react-canvas-draw-expanded --save (not yet implemented)
 ```
 
 ## Usage
